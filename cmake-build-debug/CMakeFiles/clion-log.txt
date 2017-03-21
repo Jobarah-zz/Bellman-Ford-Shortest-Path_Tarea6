@@ -1,0 +1,4 @@
+/home/jobarah/Documents/C-lion/clion-2016.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jobarah/CLionProjects/Bellman-Ford-Shortest-Path_Tarea6
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jobarah/CLionProjects/Bellman-Ford-Shortest-Path_Tarea6/cmake-build-debug

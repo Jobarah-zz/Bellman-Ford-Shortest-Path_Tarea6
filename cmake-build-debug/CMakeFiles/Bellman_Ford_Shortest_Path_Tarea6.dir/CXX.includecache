@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jobarah/CLionProjects/Bellman-Ford-Shortest-Path_Tarea6/Test.cpp
+Test.h
+/home/jobarah/CLionProjects/Bellman-Ford-Shortest-Path_Tarea6/Test.h
+
+/home/jobarah/CLionProjects/Bellman-Ford-Shortest-Path_Tarea6/Test.h
+iostream
+-
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/jobarah/CLionProjects/Bellman-Ford-Shortest-Path_Tarea6/main.cpp
+Test.h
+/home/jobarah/CLionProjects/Bellman-Ford-Shortest-Path_Tarea6/Test.h
+string.h
+-
+limits.h
+-
+
